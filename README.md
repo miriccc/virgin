@@ -7,3 +7,5 @@ peta
 
 
 deveta
+
+12
